@@ -8,7 +8,7 @@
 - 🧠 Self-Grown Dev | Passionate about Android, C++, and Tools  
 - 📱 Currently trying to build an advanced Android editing app  
 - 🎨 Love creating digital art with ibisPaint, GIMP, and Blender  
-- 🌙 Obsessed with moonlight walks & astro photography  
+- 🌙 Obsessed with moonlight walks & watching stars 
 
 ---
 
